@@ -46,6 +46,10 @@ Tools to help you communicate and engage with your audience.
 
 - **[AzuraCast Player](https://github.com/PeWe79/AzuraCast-Player)** (FOSS): A full-featured interactive web player that uses AzuraCast's API to display rich metadata for multiple stations in a single interface.
 
+- **[python-azuracast-monitor](https://github.com/joemcmahon/python-azuracast-monitor)** (FOSS): A simple Python SSE client that posts the now-playing information to a channel on your Discord.
+
+- **[Greedy Shark](https://github.com/joemcmahon/greedy-shark)** (FOSS): A "dead air" monitor for Azuracast. Samples the stream and posts a broadcast message to a channel on your Discord to alert you if the stream goes silent for more than two minutes.
+
 ## Station Discovery
 Web sites and tools to promote your own station or to find others you may enjoy.
 
